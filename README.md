@@ -1,4 +1,5 @@
-#
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Repository for study)](https://git.io/typing-svg)
-##
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/parabolla);
+#Repository for study
+## 
+:white_check_mark: изучено Python (синтаксис, ООП, unittests), SQL( стандартные запросы, join), Django (небольшой проект с авторизацией пользователей и созданием постов)    
+:negative_squared_cross_mark: Я не буду это делать    
+:black_square_button: делать или не делать, вот в чем вопрос? 
