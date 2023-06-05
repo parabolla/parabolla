@@ -4,11 +4,10 @@
 на данный момент активно изучаю DRF,celery
 ##
 1.Мой стек
----
-  -Django, postgres,
-    -Верстка сайтов HTML/CSS с использованием БЭМ
-    postman
-git github
+- Django, postgres,
+- Верстка сайтов HTML/CSS с использованием БЭМ
+- postman
+- git github
 ---
 ###
 Практикуюсь на 
