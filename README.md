@@ -1,11 +1,12 @@
 #
-Меня зову Ткачев Илья, я начинающий Python разработчик
-## 
-:white_check_mark: изучено 
-Python (синтаксис, ООП),
-Unittests,
-SQL( стандартные запросы, join), 
-Django (небольшой проект с авторизацией пользователей и созданием постов),   
-:negative_squared_cross_mark: сейчас в процессе обучения PostgreSQL, sqlalchemy, mongoDB, Flask, DRF, Docker
+Доброго врeмени суток,
+Меня зову Илья, я начинающий Python разработчик
+на данный момент активно изучаю DRF,celery
+##
+Мой стек на данный момент - 
+Django, postgres,
+Верстка сайтов HTML/CSS с использованием БЭМ
+git github
 ###
+Практикуюсь на 
 https://www.codewars.com/users/parabolla
