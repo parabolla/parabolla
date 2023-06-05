@@ -7,6 +7,7 @@
 ---
   -Django, postgres,
     -Верстка сайтов HTML/CSS с использованием БЭМ
+    postman
 git github
 ---
 ###
